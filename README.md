@@ -1,1 +1,1 @@
-# MiniProject_Covid_Website
+#Simple Website to Track covid cases
